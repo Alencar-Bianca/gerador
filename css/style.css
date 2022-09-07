@@ -65,6 +65,7 @@ body{
     border-radius: 5px;
     display: flex;
     align-items: center;
+    justify-content: center;
     flex-direction: column;
     color: #fff;
     border: 1px solid #313131;
